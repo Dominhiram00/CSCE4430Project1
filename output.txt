@@ -1,0 +1,7 @@
+- (Minus)
+    * (Multiply)
+        57(int)
+        2(int)
+    + (Add)
+        3(int)
+        4(int)
