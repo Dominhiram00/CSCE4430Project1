@@ -1,4 +1,3 @@
-
 CSCE 4430 Project 1
 By Hiram Dominguez, Dan Bui, and Jack Follett
 
