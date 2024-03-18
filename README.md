@@ -1,7 +1,8 @@
-=======================
+
 CSCE 4430 Project 1
 By Hiram Dominguez, Dan Bui, and Jack Follett
-========================
+
+
 To use the lexer, please make sure that flex is istalled.
 
 Next, compile the lexer by using the following commands:
